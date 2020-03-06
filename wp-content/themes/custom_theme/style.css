@@ -1,0 +1,45 @@
+/*!
+Theme Name: Cool items
+Theme URI: https://github.com
+Author: Balkarn Singh
+Description: This is a theme created for assignment 2
+Version: 1.1.0
+License:  
+License URI: LICENSE
+Text Domain: ebwt
+Tags:  
+*/
+ 
+body {
+	font-family: 'Raleway', sans-serif;
+}
+ 
+.image-aboutus-banner {
+    background:  url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #000;
+    padding-top: 110px;
+    padding-bottom:110px;
+ }
+ 
+  .image-aboutus-sm-banner {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/260692/600/400/m2/fpnw/wm0/blue_hexgrid_pattern-.jpg?1417645204&s=3a0f585b230f5ae78c635712b6caf38e");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #000;
+    padding-top: 30px;
+    padding-bottom:30px;
+ }
+.lg-text {
+    font-size:52px;
+    font-weight: 600;
+    text-transform: none;
+    color:#fff;
+    padding-left: 15px;
+}
+.image-aboutus-para {
+    color:#fff;
+}
